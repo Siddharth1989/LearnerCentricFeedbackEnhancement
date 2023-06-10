@@ -1,0 +1,203 @@
+" Structure 1. Components are in good order	Sensemaking 1
+; Presentation Style 1. I would recommend you to use a drawing tool, for example, LucidChart, or even presentation tools such as PowerPoint, Keynote, or Google Slides for drawing all diagrams, if possible. 2. If it is not possible, try to draw more clearly, mentioning all the proper labels.	Agency 1&Impact 1
+; Technicality in general 1. ;Mention switch, router specifications (e.g., 24 port gigabit switch,…) in diagrams (slide number 5,7).	Impact 1
+2.Justification is needed for the choice of Routers/Switches (e.g.,; why you used four 8 port 10 Gbps routers?)	Impact 1
+3. I would recommend you to show APs coverage using circles in the diagram (slide 5) ; ; " 50	Impact 1
+
+A presentation outline is expected at the beginning.	Impact 1
+I did not get your plan B.	Sensemaking 1
+The cost estimation is good for budget.	Impact 1
+You need to justify the use of 2 routers per floor.	Impact 1
+Can the switches be not connected to one ground floor router? A justification is needed in this case.	Impact 1
+Where is your load calculation? 100	Sensemaking 1
+
+"Good job, keep up the good work!	Agency 2
+Task A For Routing rationale: Could also consider the threshold of data to be transmitted where 1Gbps begins to take less time than 100Mbps .	Impact 1
+For Subnet & Mask, range, leasetime, router, dns, domain name: DHCP range should not include 102.209.124.10.	Impact 1
+Task C For Internal to DMZ: Should use stateful inspection." 93	Impact 1
+
+A presentation outline is expected at the beginning.	Impact 1
+Switches are 25-port or 30 port?	Sensemaking 1
+What are the 5-port switches used for?	Sensemaking 1
+A cost estimation is required for budget and also justiying the number of equipment used 100	Impact 1
+
+Good work 93.75	Agency 2
+
+"Good work, write project requirements, final conclusion, and appendix.	Agency 2&Impact 1
+Insert big and clear pictures of your designs.	Impact 1
+;However, a conceptual high-level diagram is needed to show a typical floor plan, backbone network (connecting the floors), and a wide area network to connect to the main office.	Impact 1
+No need to show each row (top, middle, and low) separately.	Impact 1
+;Better to mention and justify what all devices including cables along with names, specifications, the capacity have been used in your design connection." 75	Impact 1
+
+"Overall Excellent presentation.	Agency 2
+All the designs, assumptions, rules, analysis, justification, observations, and recommendations all properly aligned.	Sensemaking 1
+Keep it up." 100	Agency 2
+
+" Structure 1.; I would suggest to present in the following manners: First, A high-level diagram Second, A floor plan Third, Backbone network (floor; to floor connection), Finally, A wide area network to connect to the main office	Impact 1
+2. Prepare presentation slides of at least 10 pages long (page limit doesn’t include the title page and;References	Impact 1
+Presentation Style 1. Good use of figure and visualization	Sensemaking 1
+2. Add slide number in every slide	Impact 1
+Technicality in general 1. I would recommend a more detailed floor plan considering switch with specifications (e.g., 24 port gigabit switch,…), the symbolic connection between switch and desktops, placement of Aps,…	Impact 1
+2. ;Need to mention switch, router specifications (e.g., 24 port gigabit switch,…) in diagrams (slide number 4).	Impact 1
+3.; Justification is needed for the choice of Routers/Switches (e.g., ;why you used two 24 port gigabit switches?) ; ; " 50	Impact 1
+
+"Please do not simply read out from a script during presentation. You had difficulty reading from the scripts, it shows your lack of understanding and lack f presentation skill.	Impact 1&Sensemaking 1
+Add labels for equipment in the diagram, e.g. 10GB 48 port switch etc. to make diagrams self-content.	Impact 1
+Poor floor-plan. Please search for 'LAN floorplan' and see how it should look.	Sensemaking 1&Impact 1
+Show APs connecting to switches, in your floor plan.	Impact 1
+How much traffic from WLAN?	Impact 1
+Equipment specification?	Impact 1
+How many ports and what is the throughput?	Impact 1
+Cost/budget?" 56.25	Impact 1
+
+ip addressing in part 5 is unclear.	Sensemaking 1
+WLAN design could improve (AP location in different levels and traffic analysis).	Sensemaking 1
+what if number of users per floor increase from 50 to 60 (future growth)? 87.5	Impact 1
+
+"MingYeLi-&gt;FIT9137-P1-FeedbackBy-Safi Uddin	Agency 1
+(i) Structure of Document: No Table of contents. Good Structure of contents. Structure can be improved.	Sensemaking 1
+;(ii) Presentation Style of the Document: Figures have been used. Use of high-level diagrams is good.	Sensemaking 1
+(iii) Technical Details Found in the Document: Probably you need to relook at the “Recommendations and Justifications”. Maps, Switches, Routers, and WAPs shown.	Sensemaking 1&Impact 1
+Justification for selecting Routers/Switches are done along with traffic analysis and Bandwidth required for the devices.	Sensemaking 1
+Channel allocation for APs also present." 100	Sensemaking 1
+
+"Structure:missing project requirements, summary of recommendations, conclusions	Sensemaking 1
+Style:use phrases instead of full sentences, too much info (words) in some slides, consistent and purposeful use of coloured text	Sensemaking 1
+Technical detail:inadequate	Sensemaking 1
+Note:This feedback only covers the above aspects and is not supposed to provide any detailed feedback on the design/work." 50	Agency 1
+
+"WAN, LAN and WLAN design can improve.	Sensemaking 1
+Digrams could have improved.	Sensemaking 1
+Ideas could have presented in a more clear way.	Sensemaking 1
+Traffic analysis can improve.	Sensemaking 1
+Cable type.	Sensemaking 1
+Cost analysis.	Sensemaking 1
+Is one 48 port switch per foor enough?	Impact 1
+2 days late" 50	Sensemaking 2
+
+"Some estimation about number of switches number of routers, type of devices, types of cables, length of cables, required bandwidth for each user, for each switch for each router for each access point, locations and so on are required.	Impact 1
+Cost estimation.	Sensemaking 1
+Better floor plan is required.	Impact 1
+A conclusion is required.	Impact 1
+There are some references but have not been used in the slides." 50	Sensemaking 1
+
+Good work 93.75	Agency 2
+
+Please clarify typical floor design with access points.	Impact 1
+How many users can be supported with your proposed model ? 100	Impact 1
+
+"You did not show your own picture or the presentation slides in the loom. Therefore, it was not possible to understand what you are showing." 62.5	Sensemaking 1
+
+"Overall Excellent presentation.	Agency 2
+All the designs, assumptions, rules, analysis, justification, observations, and recommendations all properly aligned.	Sensemaking 1
+Keep it up." 100	Agency 2
+
+A conclusion is required.	Impact 1
+Font in ;;; figures is tiny.	Sensemaking 1
+There are some references but have not been used in the slides.	Sensemaking 1
+Some errors in computations:40*40=1800	Sensemaking 1
+Cost estimation is required. 100	Impact 1
+
+" Very less discussion of requirement analysis.	Sensemaking 1
+Seemed like you were reading from the slides.	Sensemaking 1
+Some information about the selected models had to be provided.	Sensemaking 1
+No recommendations are made.	Sensemaking 1
+Also, the backbone cable capacity can not be less than the WAN cable capacity. " 71	Impact 1
+
+Overall Good work.	Agency 2
+A high-level conceptual diagram needs improvement.	Sensemaking 1
+WAN design missing. 87.5	Sensemaking 1
+
+" Structure 1.A conceptual high-level diagram is needed to show a typical floor plan, backbone network (connecting the;floors) and a wide area network to connect to the main office.	Impact 1
+2. I would suggest to present in the following manners: First, A high-level diagram Second, A floor plan Third, Backbone network (floor; to floor connection), Finally, A wide area network to connect to the main office	Impact 1
+Presentation Style 1. Good use of figure and visualization	Sensemaking 1
+2. Add slide number in every slide	Impact 1
+Technicality in general 1. Switches, Routers, and location of APs are determined	Sensemaking 1
+2. You have covered all necessary technical requirements as per the assignment specifications. ; " 100	Sensemaking 2
+
+Recommendations have not provided. 87.5	Sensemaking 1
+
+"Cost estimation as well as references are required.	Impact 1
+Structure seems good.	Sensemaking 1
+More accurate computation for number and location of access points.	Impact 1
+More accurate traffic analysis and reasoning (e.g. why do we need 10 Gbps switches for each floor, why do we need 2 48-port switches per floor when we have only 50 users per floor)." 100	Impact 1
+
+" Structure 1.A conceptual high-level diagram is needed to show a typical floor plan, backbone network (connecting the;floors) and a wide area network to connect to the main office.	Impact 1
+2. I would suggest to present in the following manners: First, A high-level diagram Second, A floor plan Third, Backbone network (floor; to floor connection), Finally, A wide area network to connect to the main office	Impact 1
+Presentation Style 1. Good use of figure and visualization	Sensemaking 1
+2. Add slide number in every slide	Impact 1
+3. Some slides are wordy. You can use tables.	Sensemaking 1&Impact 1
+4. Remember you have only twelve- to fifteen minutes;to present all slides	Impact 1
+; Technicality in general 1. Switches, Routers, and location of APs are determined	Sensemaking 1
+2. You have covered all necessary technical requirements as per the assignment specifications. ; " 100	Sensemaking 2
+
+The cable type discussed for WAN connectivity towards the end of presentation is incorrect and does not suit the specifications.	Sensemaking 1
+No recommendations are made.	Sensemaking 1
+In video presentation some basic traffic analysis should have been discussed. 82.5	Sensemaking 1
+
+Presentation progressed without showing the contents in the slide. 62.5	Sensemaking 2
+
+"Overall, the submission has room for improvement.	Sensemaking 2
+Presentation should start from the background / project requirement.	Impact 1
+Some graphics contain good details, but could be better explained.	Sensemaking 1
+Good research on the specific models, but more details on your assumptions and design rationale is also needed." 50	Sensemaking 1&Impact 1
+
+DNA 0	Sensemaking 2
+
+Technical content.	Sensemaking 1
+Justify backbone connection diagram.	Impact 1
+How the number of users are supported?	Impact 1
+Structure. Contents of high-level diagram and typical floor plan are too small to follow.	Sensemaking 1
+Not sure which access point and switch are used in typical floor plan and how many users it can support? 50	Sensemaking 1
+
+"10% Late submission penalty applied.	Sensemaking 1
+Excellent work.	Agency 2
+First show conceptual high-level diagram, then floor plan, then backbone connection, and then WAN design.	Impact 1
+;Better to include and justify cable type, specifications, and capacity used for connections.	Impact 1
+Also, include the final conclusion and appendix." 90	Impact 1
+
+"A presentation outline is expected at the beginning.	Impact 1
+Diagrams are not neat and readable.	Sensemaking 1
+Hand-drawn diagrams are only acceptable if they are neat and easily readable.	Impact 1
+Cost estimation is nicely put, but AP costs are not in there." 100	Sensemaking 1
+
+Choice of devices based on your traffic analysis could have been discussed. 75	Sensemaking 1
+
+"Great job, keep up the good work!	Agency 2
+Task A For CL-> SSH: Could use the path with 1Gbps.	Impact 1
+For Routing rationale: Could also consider the threshold of data to be transmitted where 1Gbps begins to take less time than 100Mbps .	Impact 1
+Task C All good" 95	Sensemaking 1
+
+"All the tasks for routing, DHCP, firewall - all failed.	Sensemaking 1
+There were no default routes, and all the nodes were unreachable.	Sensemaking 1
+DHCP config wrong.	Sensemaking 1
+Firewall – Policy okay, but no valid rules.	Sensemaking 1
+Rechecked By Safi]	Agency 1
+No config for routing is done.	Sensemaking 1
+Some rules for firewall config is done and marks are awarded for that." 10	Sensemaking 1
+
+"Lan design could have been improved.	Sensemaking 1
+Traffic analysis could be used to conclude with choice of your devices.	Impact 1
+WLAN design could have been improved, channels discussion…" 81.25	Sensemaking 1
+
+Not enough justifications were given behind theselection of devices.	Sensemaking 1
+Traffic analysis should have been done.	Sensemaking 1
+No substantialrecommendations were made. 75	Sensemaking 1
+
+Presentation title?	Impact 1
+Presenter's name?	Impact 1
+Content outline?	Impact 1
+There is no Work-station or switch in floor-plan!	Sensemaking 1
+No. of equipment?	Impact 1
+Specification?	Impact 1
+Cost?	Impact 1
+NO. of equipment? 50	Impact 1
+
+"Good work.	Agency 2
+A conceptual high-level diagram is needed to show a typical floor plan, backbone network (connecting the floors), and a wide area network to connect to the main office.	Impact 1
+;Better to include and justify details about cables used for connection in the Choice of Product section.	Impact 1
+Include a final conclusion." 75	Impact 1
+
+"The ideas could have conveyed in a better way.	Sensemaking 1
+Traffic analysis, channel selection and location analysis for witrless Aps is missing." 75	Sensemaking 1
+

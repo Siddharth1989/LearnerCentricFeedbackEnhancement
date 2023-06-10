@@ -1,0 +1,615 @@
+"Feedback O
+for O
+Week O
+2: O
+Good discussions on second/third dimensions!	Sensemaking 1
+There are some areas from improvement which incorporate: when you are suggesting new ethical dimensions such as cause psychological trauma and personal privacy, please make sure to introduce the reader to these key ethical dimensions.	Sensemaking 1&Impact 1
+Also, to provide further information on why it is important for researchers to follow ethical data practices and what makes these ethical dimensions significant in this case?	Impact 1
+In terms of the quality of writing, please make sure to check your work for formal and academic writing. Specifically, a few sentences can be further outlined to overall improve your discussion. E.g., within your sentence ""so researchers need to ensure that every child who participates in the experiment is voluntary"", this sentence should be further elaborated within your discussion (e.g. some potential solutions).	Impact 1
+Feedback O
+for O
+Week O
+3: O
+It is good that you have identified five relevant papers. However, there are some recommendations to improve your argument about the relevance of these selected papers. First, you may provide more detailed examples to prove why the papers are relevant to the topic but not just simply summarize the abstract. In addition, you could improve the argument by provide more explanations. For example, in the 1st justification, you mentioned that ""This paper is highly related to the topic we are going to explore"". You should explain why you made a such conclusion. Overall, you could use more room and more detailed examples to explain how and why you rank your papers like this.	Sensemaking 1&Impact 1
+You received 17.9 marks for Week 1 and 12.3 marks for Week 3." 75	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+4: O
+Thanks for your response regarding the tasks.	Agency 3
+For the first task, you have selected 4 clear questions from the interview and identified the issues they have accompanied with your suggestion how they can improve them. You did a good job on identifying the issues accompanied with proper suggestion to improve them.	Sensemaking 1
+For the second task, you did a very good job and the only minor issue is about questions 3 to 5 which are implicit questions as they assume the participants used the platform.	Sensemaking 1
+Also, you need to have a better clarification for the questions; therefore, you can improve your justification to highlight more in-depth facts why those questions are beneficial and related to the main research topic.	Sensemaking 1
+Feedback O
+for O
+Week O
+5: O
+You have prepared your interview schedule with a variety of different questions.	Sensemaking 1
+Most questions are clear and I could not find any major issues in them.	Sensemaking 1
+You have too many questions for a 20 minutes interview, so I highly recommend to reduce the number of the questions and make them close as possible to 6.	Sensemaking 1&Impact 1
+I also recommend you to more generously use open-ended questions in your interview as you can see at times the participant have short answers which are lacking details.	Impact 1
+Moreover, you missed uploading the audio file of the interview.	Sensemaking 1
+For conducting the interview, you did a great job!	Sensemaking 2
+Feedback O
+for O
+Week O
+6: O
+Thanks for your answers in these tasks as you nicely identified three different themes and put 3 different codes under each of them.	Agency 3&Sensemaking 1
+However, some of your codes are still semantic or not well-defined and you needed to refine them to make them more latent.	Sensemaking 1&Impact 1
+Lastly, your justification for task 3 can be improved to have more depth and to be clearly discussed why this matters to the wider theme.	Sensemaking 1
+I look forward to seeing your great work for assignment 3 and I hope you can do it well.	Agency 3
+You received 17 marks for Week 4, 13 marks for Week 5 and 16 marks for Week 6" 75	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+7: O
+Dhanashekarn, there are several ways to improve your work. First of all, for week 7 tasks, you were supposed to use MATLAB. However, you used MATLAB only to create the boxplot.	Sensemaking 1
+And to calculate the standard deviation, you should select a valid metric from the questionnaire. But, the metric you selected was not relevant for this purpose.	Impact 1&Sensemaking 1
+At the same time, when it comes to analysing quantitative data, it is also necessary to do data wrangling first.	Impact 1
+Please make sure that you follow the right steps and adhere to the assignment specifications next time.	Impact 1
+Let me know if you want some sample solutions for the workshop activities we did.	Agency 1
+Feedback O
+for O
+Week O
+8: O
+Dhanashekaran, I strongly recommend that you revisit week 7 and 8 materials again.	Agency 1
+While you have included hypotheses, the independent and dependent variables you wanted to measure in the hypotheses were not clear and valid. Even for other questions specially on data collection, you need to explain the types of data you would collect using the questionnaire and then discuss the test you would conduct to analyse the data.	Sensemaking 1&Impact 1
+I am more than happy to sit with you and go through these questions again during a consultation.	Agency 3
+Feedback O
+for O
+Week O
+9: O
+Dhanashekaran, well done on completing the week 9 tasks correctly.	Sensemaking 2
+Your answers were correct and you clearly showed how you arrived at each answer with a step by step approach.	Sensemaking 1
+I don't have any comments for further improvement.	Sensemaking 1
+You received 10 marks for Week 7, 7 marks for Week 8 and 20 marks for Week 9" 61.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+7: O
+For week 7, the formulas to calculate standard deviation is mentioned, but the values are incorrect.	Sensemaking 1
+The MATLAB script could have been better.	Sensemaking 1
+For sample standard deviation, the answer was not shown.	Sensemaking 1
+he boxplot is there, but the annotations were missing.	Sensemaking 1
+It would have been better if MATLAB was used for annotations.	Sensemaking 1
+Feedback O
+for O
+Week O
+8: O
+For week 8, the null and alternative hypothesis are phrased properly.	Sensemaking 1
+The confounding variables, independent and dependent variables were related to the hypothesis.	Sensemaking 1
+The data collection resources could have been explained better along with the statistical approach.	Sensemaking 1
+Also, the limitations and future investigations could have been better.	Sensemaking 1
+Lastly, the hypothesis should have been based on week 7 survey.	Sensemaking 1
+Feedback O
+for O
+Week O
+9: O
+For week 9, the confusion matrix computed for Q(a) is correct, but the value for accuracy is incorrect.	Sensemaking 1
+In addition, the calculation for only bottles confusion matrix is shown, and the values for recall, precision and f1-score are correct.	Sensemaking 1
+You received 9 marks for Week 7, 15 marks for Week 8 and 18 marks for Week 9" 70	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+4: O
+Yin Ning Tan, you correctly identified three out of four questions from the survey with their issues for week-4	Sensemaking 1
+Task-1. First, we don't think there exist any issues with Ques:14 as you did. Then, the improvements suggested are inappropriate. More specifically, your improvement for Ques:14 incorporates ""We can reduce the scope of this question by asking a more specific question. E.g., What should be improved during the on-boarding process."", isn't it leading which assumes something need to be improved? It would be best if you improved questions in such a way that it shouldn't create any confusion among the participants and are not biased or leading.	Sensemaking 1&Impact 1
+For week-4 task 2, you prepared both open and close-ended questions. Most questions are not relatively straightforward and can be improved in wording and rephrasing. For example, in question 5, ""Which form(s) of guidance do you prefer to receive?"", this question is a bit implicit. Moreover, the Justification is too long to follow, i.e., you need to improve your writing.	Sensemaking 1
+Feedback O
+for O
+Week O
+5: O
+The interview schedule you presented for week 5 is perfect, and it consists of questionnaires related to the topic you selected.	Sensemaking 1
+The type of questions written is correct as these are not leading or ambiguous questions.	Sensemaking 1
+Moreover, you followed a good practice during the interview to summarize the interviewee's response before asking the next question, especially for the question that could lead to a different meaning, which is very good.	Sensemaking 1
+Moreover, you haven't interrupted the participant or demonstrated that you were not listening; this is good too.	Sensemaking 1
+However, as per the assignment guideline, you suppose to submit a recording that is at least 20 min long. I found your submission is around 17 min.	Sensemaking 1
+Feedback O
+for O
+Week O
+6: O
+For week 6, Task-1, you successfully identified 3 different Themes, and at least 3 codes are listed for each theme.	Sensemaking 1
+You also correctly highlighted latent issues for each code of the corresponding themes, except theme no 1, where 2 codes are somewhat general but still related to the theme, compare to the other two themes, where all three codes apply to the theme.	Sensemaking 1
+Moreover, the themes are somewhat relevant to the topic and somewhat related to other themes in a coherent manner, and the justification is detailed enough to explain why it matters to the wider theme.	Sensemaking 1
+However, as per the assignment guideline, you suppose to provide 3 codes for each theme, but I found your themes 1, you provide 8 codes.	Sensemaking 1
+Examined by Md. Shamsujjoha In case of any inconsistency, please send an email to 'md.shamsujjoha2@monash.edu'	Agency 1
+You received 13 marks for Week 4, 18 marks for Week 5 and 19 marks for Week 6" 83.33	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+7: O
+Your calculations for population standard deviation, sample standard deviation and IQR have all been calculated correctly.	Sensemaking 1
+The accompanying MATLAB script appears to utilize the correct commands, in the correct order and each line is clearly annotated explaining what it does.	Sensemaking 1
+The boxplot has been well produced and includes all of the appropriate annotations.	Sensemaking 1
+A screenshot of both the commands in MATLAB and the finalized boxplot itself have been included.	Sensemaking 1
+MATLAB script is in the correct order and provides some annotations however further annotations highlighting outliers, quartiles, median, etc. would have been an appropriate way to further improve the overall boxplot.	Sensemaking 1
+Feedback O
+for O
+Week O
+8: O
+You have a fairly well-defined hypothesis that identifies a measurable phenomenon that is related to the topic of the survey.	Sensemaking 1
+In theory it is something that can be reasonably tested.	Sensemaking 1
+The null hypothesis has been clearly stated and relates to the proposed hypothesis.	Sensemaking 1
+You have provided the required number of variables (independent, dependent, and confounding) and they are well defined.	Sensemaking 1
+The collection process is lacking certain details regarding financials and feasability (how will you be disseminating online surveys? via email? if so how will you collect student email addresses?).	Sensemaking 1
+Question 6 would benefit from additional discussion regarding future investigations.	Sensemaking 1
+Feedback O
+for O
+Week O
+9:T O
+he confusion matrix has been correctly calculated and displayed in a clear manner).	Sensemaking 1
+Accuracy has been calculated correctly, with appropriate working out included that is both clear and valid.	Sensemaking 1
+Justifications touches on both accuracy and limits of sampling size.	Sensemaking 1
+Question 4 required working out showing how the categories were merged.	Sensemaking 1
+Recall, Precision and F1-Score have all been calculated correctly and include correct working out.	Sensemaking 1
+You received 18 marks for Week 7, 13 marks for Week 8 and 17 marks for Week 9" 80	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+4: O
+The following are some suggestions for improvement. Task 1: Q5: This question would be easier to answer if you used a scale type of answer. E.g. On a scale from 1 to 10, how satisfied are you with the on-boarding process. Q11: You need to specify what you mean by percentage of emails from the university Percentage of emails out of what exactly? All the emails they receive? Also, part 2 of the improved question sounds somewhat leading. Instead of asking whether the emails are annoying, you could ask about their level of satisfaction with university emails. Task 2: The questions do not seem to be organised in a logical way. Try to organise them in a way that makes them easier to respond. For Q2: add another option Other. Please specify [].	Impact 1
+Feedback O
+for O
+Week O
+5: O
+Overall, you were able to conduct a good interview, with a range of varied questions.	Sensemaking 1
+Here are some suggestions for improvement. Try to start your interview with 1-2 easy questions (for example Where are you from? or how long have you been here?). This will help you build rapport with your interviewee and getting them to feel comfortable going forward with the interview.	Impact 1
+Also, the first question you asked (have there been any changes to your lifestyle?) is not clear. What aspects of the students lifestyle are you asking about exactly? Your question needs to be a bit more specific to make it easy to answer for your interviewee.	Sensemaking 1&Impact 1
+Feedback O
+for O
+Week O
+6: O
+You identified a group of codes based on the given transcripts and grouped them into broader themes.	Sensemaking 1
+While some of your codes were latent and represented deeper interpretations of the transcript, many of the codes you identified (e.g codes 1 and 2) were semantic rather than latent, and only scratched the surface of the transcripts and refer directly to what the respondents had said.	Sensemaking 1
+Moreover, Some of your code names were too short and not descriptive enough. Try to keep both your code and theme names as concise and descriptive as possible, and try to use the phrase format for your codes as single word codes are not descriptive enough.	Sensemaking 1
+For the second part of the assessment, the requirement was to include 2 illustrative quotes from the transcript for each code.	Sensemaking 1
+It is not clear whether the sentences you included were from the transcript. Please use quotation marks to indicate that youre including a quote.	Sensemaking 1&Impact 1
+You received 16 marks for Week 4, 20 marks for Week 5 and 13 marks for Week 6" 81.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+7: O
+Firstly, the calculation results for the std, IQR, and sample std are all correct.	Sensemaking 1
+Well done!	Agency 2
+One recommendation is to put more clarifications along with your calculations. For example, you could explain what the interquartile range Q1 and Q3 means for the calculation of the Interquartile Range.	Impact 1
+The Interquartile Range in the MATLAB should be annotated as well.	Impact 1
+The boxplot tasks require further clarifications as annotations tasks are incomplete. Please revise the values for each point.	Sensemaking 1&Impact 1
+Feedback O
+for O
+Week O
+8: O
+You have successfully identified a hypothesis and null hypothesis; the confounding variables also are a good match for your topic.	Sensemaking 1
+Feedback O
+for O
+Week O
+9: O
+You have done a wonderful job for this week!	Agency 2
+You received 15 marks for Week 7, 20 marks for Week 8 and 17 marks for Week 9" 86.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+For weeks 10-11, excellent work Keke!	Agency 2
+I think it was fantastic that you have included appropriate live content in the video.	Sensemaking 1
+Moreover, the time in seconds and beats were quite clear, except the first bets which is too short and fifth beats that is too long!	Sensemaking 1
+Overall, you have successfully attributed the videos, and this is excellent throughout your template.	Sensemaking 1
+The communication was very well implemented in both your template and video.	Sensemaking 1
+The framework used in the video was very well explained throughout 87 seconds.	Sensemaking 1
+Then, you make clear reasoning for why they selected to present this element of content, supported by this dialogue and visual element – particularly in relation to the audience or narrative.	Sensemaking 1
+Finally, the quality of the writing is good.	Sensemaking 1
+It was also good that you provide references at the end for credits.	Sensemaking 1
+Overall, great work.	Agency 2
+Feedback O
+for O
+Week O
+12: O
+For the week 12 task, you have discussed the background, potential solution and the impact of the research, but more clarification/justification was required.	Sensemaking 1
+Some key areas for improvement include - There is mention of a problem, but it is not clearly defined.	Sensemaking 1
+However, it is good to see that you have framed your justification properly while discussing the standard rules for patent decisions, e.g. novelty, usefulness.	Sensemaking 1
+Then, Some mention of potential commercialization was there in your submission, but not clear how this might be realized, particularly in relation to any previous questions on patents.	Sensemaking 1
+Also, you need more details in the prior art section as there is always prior art.	Sensemaking 1
+The investigation of Prior art is crucial to the impact declaration, and a link is needed here.	Sensemaking 1
+You can use google patent search, even the Australian Patent database.	Agency 1
+A typical prior art search process requires a search strategy to be formulated at the beginning using a keyword search, name search, classification search or a citation search, or a combination thereof.	Sensemaking 1
+Examined by Md ShamsujjohaPlease send an email to md.shamsujjoha2@monash.edu in case of any inconsistency	Agency 1
+You received 36 marks for Week 10 and 11 and 7 marks for Week 12" 70	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+4: O
+For week 4, it is really good that you have identified four questions from the survey with their issues.	Sensemaking 1
+The improvements suggested are also appropriate.	Sensemaking 1
+There are few improvements which can be done to make the improved question better.	Sensemaking 1
+For example, the third question selected did not have any issues with. Also, the improved questions could have been better.	Sensemaking 1
+For instance, for the second question, it would have been better if the entire question is written what has changed rather than 'should be divided into two questions'.	Sensemaking 1
+For task 2 of week 4, the title and description has been described succinctly.	Sensemaking 1
+The five questions provided for the topic are good, but the fourth question could have been open ended.	Sensemaking 1
+Also, the justification of including questions could have been better.	Sensemaking 1
+Feedback O
+for O
+Week O
+5: O
+For week 5, the interview schedule is not present for the selected mini-topic.	Sensemaking 1
+Also, there were no interview questions provided in the interview schedule.	Sensemaking 1
+Also, it is a good practice during the interview that you summarise the interviewees response before asking the next question as it confirms what they meant when they answered the previous question.	Sensemaking 1
+Feedback O
+for O
+Week O
+6: O
+For week 6, it is good that you have developed three themes with their relevant codes, but unfortunately, all the codes identified are semantic codes.	Sensemaking 1
+The requirement for this task was to identify latent codes.	Sensemaking 1
+Also, the description provided for codes could have been better.	Sensemaking 1
+The two supporting quotes were provided for each code.	Sensemaking 1
+It would have been better if the quotes were a single line rather than a paragraph.	Sensemaking 1
+At the same time, the descriptions provided for themes at the end were really good and covered the main aspects of themes.	Sensemaking 1
+You received 15 marks for Week 4, 11 marks for Week 5 and 16 marks for Week 6" 70	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+For video and its template, some key areas for improvement include please make sure that all assets in the video are appropriately attributed.	Sensemaking 1
+All content needs to be acknowledged throughout your assignment.	Sensemaking 1
+The audio is good, some more clear and connecting visuals can have been implemented throughout the assignment. For example, the first visual is quite general. A live video would have been good to see here! The other images are also quite general for the research. Thus, the segments require more live content.	Sensemaking 1
+Also, the length of a few beats were longer than 15 seconds. It is good if they are between 10-15 seconds long.	Sensemaking 1
+Feedback O
+for O
+Week O
+12: O
+The investigation of Prior art is crucial to the impact declaration, and a link is needed here.	Sensemaking 1
+You can use google patent search, even the Australian Patent database.	Agency 1
+A typical prior art search process requires a search strategy to be formulated at the beginning using a keyword search, name search, classification search or a citation search, or a combination thereof.	Sensemaking 1
+Also, on the other hand, an investigation was needed on receiving a patent or not and should be justified based on novelty, obviousness and usefulness of the product.	Sensemaking 1
+You received 38 marks for Week 10 and 11 and 9 marks for Week 12" 76.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+Good job for this section, except the fact that last two beats are quite long (recommend 10-15 seconds).	Sensemaking 1
+However, it is good that you made an attempt to add a live-action video in most of the beats in addition to your video footages from the internet.	Sensemaking 1
+Majority of the content is well suited for the research and the story, content, language and the audio are good.	Sensemaking 1
+Also, you have used very engagingly and connecting visuals throughout the video.	Sensemaking 1
+Some key areas for improvement include, please make sure that all assets in the video are appropriately attributed.	Sensemaking 1
+All content needs to be acknowledged throughout your assignment.	Sensemaking 1
+Feedback O
+for O
+Week O
+12: O
+Regarding this task of the assignment, you have accurately discussed the background, potential solution and the impact of the research. However, some key areas for improvement include - It would be best if you framed your justification properly while discussing the standard rules for patent decisions, e.g. novelty, usefulness, non-obviousness. In your answer I can only see the novelty requirements. Also, you need more details in the prior art section. The investigation of Prior art is crucial to the impact declaration, and a link is needed here for your reference (there’s always prior art).	Sensemaking 1&Impact 1
+You can use google patent search, even the Australian Patent database.	Agency 1
+A typical prior art search process requires a search strategy to be formulated at the beginning using a keyword search, name search, classification search or a citation search, or a combination thereof.	Sensemaking 1
+You received 38 marks for Week 10 and 11 and 7 marks for Week 12" 76.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+4: O
+For week 4, it is really good that you have identified four questions from the survey with their issues.	Sensemaking 1
+The improvements suggested are also appropriate.	Sensemaking 1
+There are few improvements which can be done to make the improved question better.	Sensemaking 1
+For example, for the Facebook question, the issue identified was incorrect.	Sensemaking 1
+This question was irrelevant in the survey which was the correct issue.	Sensemaking 1
+For task 2 of week 4, the title and description has been described succinctly.	Sensemaking 1
+Also, the questions along with their justifications have been provided clearly.	Sensemaking 1
+Just a minor comment that the third question written was a leading question, which is not a good practice.	Sensemaking 1
+Feedback O
+for O
+Week O
+5: O
+For week 5, the interview schedule is presented which is good and covers different aspects of the topic.	Sensemaking 1
+The type of questions written are good as it is not leading or ambiguous questions.	Sensemaking 1
+Also, it is a good practice during the interview that you summarise the interviewees response before asking the next question as it confirms what they meant when they answered the previous question.	Sensemaking 1
+Feedback O
+for O
+Week O
+6: O
+For week 6, task 1, the themes and latent codes identified are really good.	Sensemaking 1
+The latent codes identified were really good as the theme title covers those codes.	Sensemaking 1
+Also, it is good that you described the codes with appropriate quotes from the interview.	Sensemaking 1
+At the same time, the descriptions provided for themes at the end were really good and covered the main aspects of themes.	Sensemaking 1
+You received 17 marks for Week 4, 14 marks for Week 5 and 20 marks for Week 6" 85	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+The video you have produced communicates the research you're pitching through visuals and the use of somewhat clear language and dialogue.	Sensemaking 1
+Here are some suggestions for improvement: - You are highly encouraged to try and use more live footage of your own creation as it makes the video more engaging (and not just in the slide/picture-in-picture format). - You only needed one video treatment table for this assignment (the updated version). - A few of the segments in your video treatment plan were either shorter or longer than the recommended 10-15s range.	Impact 1
+Feedback O
+for O
+Week O
+12: O
+Below are feedback and suggestions for improvement for your Impact Declaration: Summary/Background, the problem statement, potential solution, and impact of the research are all clear but require further articulation.	Sensemaking 1&Impact 1
+For patent potential, your yes/no answer is articulated but the justification needs further reference to patent decision policies such as novelty and usefulness.	Sensemaking 1&Impact 1
+No links/references to existing prior art were provided.	Sensemaking 1
+Commercial potential and benefiting industries are both clear but commercial potential requires more details/discussion about how this research would be profitable.	Sensemaking 1
+You received 34 marks for Week 10 and 11 and 7 marks for Week 12" 68.33	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+The video you have produced communicates the research you're pitching through visuals and the use of somewhat clear language and dialogue.	Sensemaking 1
+Here are some suggestions for improvement: - You are highly encouraged to try and use more live footage of your own creation as it makes the video more engaging (and not just in the slide/picture-in-picture format). - The treatment table doesn’t include any times, which was a requirement of this assignment.	Impact 1&Sensemaking 1
+Feedback O
+for O
+Week O
+12: O
+Below are feedback and suggestions for improvement for your Impact Declaration: Summary/Background, the problem statement, potential solution, and impact of the research are all clear. For patent potential, your yes/no answeris articulated but the justification needs further reference to patent decision policies such as novelty and usefulness. Commercial potential and benefiting industries are both clear and well-articulated.	Sensemaking 1
+You received 24 marks for Week 10 and 11 and 8 marks for Week 12" 55	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+For video and its template, some key areas for improvement include please make sure that all assets in the video are appropriately attributed.	Sensemaking 1
+All content needs to be acknowledged throughout your assignment.	Sensemaking 1
+The audio is good, some more clear and connecting visuals can have been implemented throughout the assignment. For example, the first visual is quite general.	Sensemaking 1
+A live video would have been good to see here!	Impact 1
+The other images are also quite general for the research. Thus, the segments require more live content.	Sensemaking 1
+One other key recommendation includes some further information can also be included as part of your justification of each beat.	Impact 1
+Lastly, the length of few beats were less than 10 secs. It is recommended and a good practice to keep it for 10-15 secs.	Sensemaking 1
+Also, the recording was a presentation of the research.	Sensemaking 1
+Feedback O
+for O
+Week O
+12: O
+There are many areas for improvement in your assignment. My main recommendations to improve include: potential solutions could have been better explained.	Impact 1
+The description of the technology used for designing the product could have been elaborated more.	Sensemaking 1
+For the patent section, it is not mentioned clearly whether the product should be applied for a patent or not.	Sensemaking 1
+Lastly, the investigation of Prior art is crucial to the impact declaration, and a link is needed here.	Sensemaking 1
+You can use google patent search, even the Australian Patent database.	Agency 1
+A typical prior art search process requires a search strategy to be formulated at the beginning using a keyword search, name search, classification search or a citation search, or a combination thereof.	Impact 1
+The impact of the product on the investors was not clear. It would have been a good read if details were included like what the product can do to make investors successful.	Sensemaking 1&Impact 1
+You received 39 marks for Week 10 and 11 and 7 marks for Week 12" 76.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+7: O
+In week 7 assignment, you have correctly coded for all the required calculations, The MATLAB command scripts are complete too with very clear annotations explaining the steps by steps.	Sensemaking 1
+Only one boxplot with annotation was required, but good effort overall.	Sensemaking 1&Agency 2
+Feedback O
+for O
+Week O
+8: O
+Great outline for a plan, there are many areas of improvement for your assignment, the hypothesis can be clearer here. Such as please narrow down the topic to one unit, the confounding variables are quite good also!	Sensemaking 1&Impact 1
+Good work in identifying a statistical test.	Sensemaking 1
+Thanks for your submission.	Agency 3
+Feedback O
+for O
+Week O
+9: O
+The working out for confusion matrix is clear and the grid is correct. However further working out is needed on the process of obtaining the values in the grid for question 1.	Sensemaking 1&Impact 1
+Question 3 is not present here please check assignment requirements.	Sensemaking 1&Impact 2
+All the other solutions for your analysis are correct.	Sensemaking 1
+Thank you for the submission.	Agency 3
+You received 16 marks for Week 7, 17 marks for Week 8 and 10 marks for Week 9" 71.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+For week 10 and 11, there are too many static images used in the video with a lack of suitable transitions between them, which makes the content less likely to be attractive to the audience, such as 00:50.	Sensemaking 1
+It would be better if you could add more live-action content in the videos and think of the transitions between beats.	Impact 1
+To convey a meaning amount of content, the length of each beat should be around 10 to 15 seconds. Thus, a 90 second video should be 6 ~ 9 beats ideally. You have made 5 beats. The 1st beat is 25 seconds, the 3rd beat is 20 seconds, and the 4th beat is 25 seconds.	Sensemaking 1
+Feedback O
+for O
+Week O
+12: O
+For week 12, the summary does not cover all aspects of the work you selected. A summary should clearly describe what the work is.	Sensemaking 1
+Abstract is normally the summary written by the authors and the summary of this impact declaration should be a summary of the abstract without using too many terms and jargon.	Sensemaking 1
+Although you have mentioned the problem, but it is quite general and not clearly articulated with details. You need to define this problem firstly and then discuss further with explanations why the problem is a significant research problem that needs to be tackled.	Sensemaking 1&Impact 1
+One-sentence answer could be further explained.	Sensemaking 1
+Also, you add one prior art, but its not made clear why this is relevant.	Sensemaking 1
+You received 34 marks for Week 10 and 11 and 7 marks for Week 12" 68.33	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+2: O
+You mentioned “Lastly, physical or psychological harm or abuse is also an important ethical issue.” physical or psychological harm or abuse is an ethical dimension, not an ethical issue.	Sensemaking 1
+Didn’t distinguish issues from dimensions It’s hard to tell which one is the issue and which one is the dimension.	Sensemaking 1
+Ethical Issues are specific ethical issues related to specific research projects and dimensions are the ethical standards that researchers should follow in order to avoid potential ethical issues and protect research participants.	Sensemaking 1
+To improve your work, each ethical issue should be discussed at the beginning of each paragraph and then you could state which dimensions is associated with, so that readers could tell which one is an issue and which one is the associated dimension.	Impact 1
+Also, please use the words “dimension” and “issues” explicitly when describing them so that readers won’t be confused.	Impact 1
+Feedback O
+for O
+Week O
+3: O
+You mentioned ""For the content, this paper is a summary of speech assessments carried out on children with autism and outlines design guidelines to researchers for speech assessment of children with autism."	Sensemaking 1
+" You have summarised the abstract of all papers only partially, and the summary should have contained more details of the paper you selected; By reading your summary, readers still have little information about what these papers are and the relevance with the paper in question.	Sensemaking 1
+You received 17 marks for Week 1 and 15.5 marks for Week 3." 80	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+7: O
+For week 7, the formulas to calculate standard deviation and interquartile range are mentioned, but the value for sample standard population was incorrect.	Sensemaking 1
+Also, the boxplot was clearly visible, but annotations were missing.	Sensemaking 1
+Feedback O
+for O
+Week O
+8: O
+For week 8, you have identified the hypothesis as well as null hypothesis properly.	Sensemaking 1
+The dependent, independent and confounding variables are a good match for your hypothesis.	Sensemaking 1
+the data collection process could have been better.	Sensemaking 1
+Limitations and future investigations have been identified properly.	Sensemaking 1
+Feedback O
+for O
+Week O
+9: O
+For week 9, The confusion computed was correct, but the value for accuracy was incorrect.	Sensemaking 1
+Also, the confusion matrix for only bottles was correct, and the values for recall and f1-score were incorrect.	Sensemaking 1
+The formula for precision was there, but no answer was displayed.	Sensemaking 1
+You received 15 marks for Week 7, 18 marks for Week 8 and 19 marks for Week 9" 86.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+7: O
+In week 7 assignment, you have correctly coded for all the required calculations, The MATLAB command scripts are complete too with very clear annotations explaining the steps by steps.	Sensemaking 1
+Great work in creating the box plot, please make sure to add numbers within the graph also.	Sensemaking 1
+Feedback O
+for O
+Week O
+8: O
+Good work in identifying the case scenario this had excellent detail.	Sensemaking 1
+Key improvement is further revision is needed on your variables for the research.	Sensemaking 1
+Please also add more detail in choosing the t-test and ANOVA, with greater analysis on your chosen test and assumptions.	Impact 1
+Also please make sure to spell check your work before submission.	Impact 3
+Feedback O
+for O
+Week O
+9: O
+The working out for confusion matrix is clear and the grid is correct. However further working out is needed on the process of obtaining the values in the grid for question	Sensemaking 1&Impact 1
+1. All the other solutions for your analysis are correct.	Sensemaking 1
+Thank you for the submission.	Agency 2
+You received 20 marks for Week 7, 16 marks for Week 8 and 18 marks for Week 9" 90	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+4: O
+A total of four questions were identified in task 1.	Sensemaking 1
+Issues identified for each question were highlighted and some suggestions to improve the questions were made.	Sensemaking 1
+Issues identified were clear and but not well-described.	Sensemaking 1
+My suggestion is that for the suggested improvements, it would be good if you can provide a reworded question to replace each of the problematic questions you identified. For example, you could further work on Q11 and Q13.	Impact 1
+Task 2, there is nothing wrong with the questions and its logical order. However, Q5 is a leading question. Thereby, instead of asking how dissatisfied are you with the approaches you could have asked what would you suggest to improve the University's current onboarding process.	Sensemaking 1&Impact 1
+Feedback O
+for O
+Week O
+5: O
+For this section of the assignment, you have identified six different open-ended prompts (different aspects) which are highly related to the selected topic, and they were in an appropriate order.	Sensemaking 1
+I O
+t is good that all your main questions, followup/probing questions do not include any problematic factors, and they are not sensitive or complex. However, there were some questions and cannot be considered as open questions which may lead to very short responses from the participants as you can see from your transcript. For example, if you closely look at your first half of the interview, almost all of the follow-up question were closed-ended and you've got only short answers and you couldnt dig deeper in to it.	Sensemaking 1
+Also, it is better to summarise the responses of the interviewee at times to confirm what you heard when they make a point/argument on a given factor.	Impact 1
+Also, you tried to clarify their responses to ask follow up questions and provided an intelligent transcript	Impact 1
+Feedback O
+for O
+Week O
+6: O
+The aim of conducting these interviews were to identify hidden insights of the university onboarding process and challenges in it. However, I dont see how the introductory code would fit in here, as we couldnt get any information from this code in term of the research.	Sensemaking 1
+Also, most of the codes you created for task 2 were semantic codes, not latent ones.	Sensemaking 1
+One strategy for creating latent codes is to go through the transcripts several times and make sure that you have gone beyond the surface meaning of the data.	Sensemaking 1
+In addition, the code description is not detailed enough to depict the importance of this code.	Sensemaking 1
+Furthermore, we expect you to include a high level justification for each theme. However, you failed to describe how the selected codes are relevant to your theme by taking for about 150 words each.	Sensemaking 1
+You received 14 marks for Week 4, 18 marks for Week 5 and 15 marks for Week 6" 78.33	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+2: O
+You mentioned “Physical and psychological harm and abuse, informed consent, and vulnerable populations are all legal questions raised in this research study.” These are ethical dimensions, not ethical issues or legal questions. Didn’t distinguish issues from dimensions It’s hard to tell which one is the issue and which one is the dimension. Ethical Issues are specific ethical issues related to specific research projects and dimensions are the ethical standards that researchers should follow in order to avoid potential ethical issues and protect research participants. To improve your work, each ethical issue should be discussed at the beginning of each paragraph and then you could state which dimensions is associated with, so that readers could tell which one is an issue and which one is the associated dimension. Also, please use the words “dimension” and “issues” explicitly when describing them so that readers won’t be confused.	Sensemaking 1&Impact 1
+You should pay attention to your academic writing. For example, “as a result” have been used twice in the last paragraph.	Impact 3
+Feedback O
+for O
+Week O
+3: O
+You mentioned ""The author of this paper discusses how mobile and social computing can be used to strengthen normal parent-child conversations, with clinical consequences for children with language delays."" You have summarised the abstract of all papers only partially, and the summary should have contained more details of the paper you selected; By reading your summary, readers still have little information about what these papers are and the relevance with the paper in question.	Sensemaking 1
+You received 15.3 marks for Week 1 and 16.6 marks for Week 3." 80	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+Your video is quite good!	Sensemaking 1
+Well done!	Agency 2
+All elements described in the treatment appear in the video.	Sensemaking 1
+The script uses appropriate language for the audience and does not presume either too much or too little pre-existing knowledge.	Sensemaking 1
+The visual used for each segment is well suited to the content and script, and is an appropriate way of communicating this to the audience	Sensemaking 1
+Feedback O
+for O
+Week O
+12: O
+well done!!!	Agency 2
+You received 40 marks for Week 10 and 11 and 10 marks for Week 12" 83.33	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+7: O
+Thanks for your response to this task, the box plot and the iqr value are correct; however, all other values are incorrect. E.g., the values of standard deviations for population and sample ones are incorrect.	Sensemaking 1
+Also, we expected a better annotation in your matlab script (fully commented code) though you were allowed to use built-in functions in matlab to calculate the required parameters for the first three parts.	Sensemaking 1
+Also, you missed fully annotating the box plot (X and Y axes, a title for the plot, outliers, min-max, quartiles, etc.). We expected you to use built-in functions in matlab to annotate the items you have missed on your plot.	Sensemaking 1
+Feedback O
+for O
+Week O
+8: O
+Thanks for the response to this task.	Agency 3
+You described the hypothesis well, but it is was nice to have it more specific and when defining your null mentioning the statistically difference term.	Sensemaking 1
+Further, you had a good explanation on the types of data needed to be collected but less attention to the budget and the feasibility and the relation of them to testing the hypothesis in the collection process.	Sensemaking 1
+The other issue with your task was about a lack of in-depth justification on your reasons of choosing the test for your statistical analysis.	Sensemaking 1
+You could have briefly compared it to the other tests we learned in this unit (you could have referred to the data type like parametric vs non-parametric data).	Sensemaking 1
+There was a chart in the pre-workshop materials showing how we can select the best test based on the data type.	Sensemaking 1
+Lastly the limitation and future investigation can be further developed as they are lacking in-depth insights about many other aspects of the research.	Sensemaking 1
+Feedback O
+for O
+Week O
+9: O
+You did a good job in calculating the accuracy based on a correct confusion matrix; however, you missed the requirement of the task which asked you to that all working out (including the steps) should be done by hand (i.e., hand written or shown in full in a word or excel document) for the confusion matrix.	Sensemaking 1
+Argument for the performance of accuracy metric is also lacking proper insights where you could have discussed the sampling limitations, etc.	Sensemaking 1
+Also accuracy should be 50%.	Sensemaking 1
+Overall, good job!	Agency 2
+You received 10 marks for Week 7, 13 marks for Week 8 and 11 marks for Week 9" 56.67	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+10 O
++ O
+11: O
+For video and its template, some key areas for improvement include please make sure that all assets in the video are appropriately attributed.	Impact 1
+All content needs to be acknowledged throughout your assignment.	Impact 1
+The audio is good, some more clear and connecting visuals can have been implemented throughout the assignment. Thus, the segments require more live content.	Sensemaking 1
+One other key recommendation includes some further information that can also be included as part of your justification of each beat.	Sensemaking 1
+Feedback O
+for O
+Week O
+12: O
+The impact of the product on the investors was not clear. It would have been a good read if details were included like what the product can do to make investors successful.	Sensemaking 1&Impact 1
+Also, on the other hand, an investigation was needed on receiving a patent or not and should be justified based on novelty, obviousness and usefulness of the product.	Sensemaking 1
+Additionally, it would have been better if explained why the existing prior art conflicts with the research.	Impact 1
+Also, it would have been a good read to see how the product can increase the commercial potential of this research.	Sensemaking 1
+Lastly, it would have been better if justification was provided for industries being benefitted with this research.	Sensemaking 1
+You received 37 marks for Week 10 and 11 and 8 marks for Week 12" 75	Sensemaking 2
+
+"Feedback O
+for O
+Week O
+4: O
+For week 4, it is really good that you have identified four questions from the survey with their issues.	Sensemaking 1
+Few comments - the suggestions provided for few questions could have been better.	Sensemaking 1
+For task 2 of week 4, the title and description provided are really good, but too general.	Sensemaking 1
+At the same time, the descriptions provided for themes at the end were really good and covered the main aspects of themes.	Sensemaking 1
+Feedback O
+for O
+Week O
+5: O
+For week 5, the interview schedule is presented which is good and covers different aspects of the topic.	Sensemaking 1
