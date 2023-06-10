@@ -1,0 +1,242 @@
+"Your presentation did not consider traffic analysis and explanation of switch or access point used. Moreover, it also does not include the cost of the recommendations.	Sensemaking 1
+Work on the spelling while you are writing on slides.	Impact 3
+Late penalty applied." 67.5	Sensemaking 2
+
+Structure:fine	Sensemaking 1
+Style:fine	Sensemaking 1
+Technical detail:some diagrams can improve (convey more information)	Sensemaking 1
+Note:This feedback only covers the above aspects and is not supposed to provide any detailed feedback on the design/work. 100	Agency 1
+
+"Good job, keep up the good work!	Agency 2
+Task A For Routing rationale: Could also consider the threshold of data to be transmitted where 1Gbps begins to take less time than 100Mbps .	Impact 1
+For Set up backward routes: Internet to R3: Internet does not need a default route to R3.	Sensemaking 1
+For Subnet & Mask, range, leasetime, router, dns, domain name: DHCP range could use the local domain name server in delos.	Impact 1
+Task C For DMZ to External: The servers in DMZ should only be allowed to initiate a communication if it is required by the service the server provides and only for that service.	Impact 1
+For Internal to DMZ: Should use stateful inspection to determine who can intialise NEW traffic.	Impact 1
+For Clients to R3: Could also enable R3 to ping all internals." 86	Impact 1
+
+"In floor plan and backbone connection diagrams, switch,and router specifications were missing (slides 12 and 14).	Sensemaking 1
+APs coverage and channel numbers were missing in thefloor plan.	Sensemaking 1
+It is not clear to me how many switches did youconsider for each floor. (from slide 12).	Sensemaking 1
+Not a good presentation." 68.75	Sensemaking 1
+
+"Luck Wei FIT9137-P1-FeedbackBy-Safi Uddin(i) Technical Contents in the Document: Requirement Analysis: Req analysis lacks a bit of detail that would help to understand the project (e.g. backbone).	Sensemaking 1
+Wired LAN: is very detailed.	Sensemaking 1
+WLAN: WLAN design is not detailed.	Sensemaking 1
+Channel allocation for APs are not shown.	Sensemaking 1
+WLAN design- a bit more detail is expected.	Sensemaking 1
+Devices Used Shown: routers, Switches and WAPs shown.	Sensemaking 1
+Router details are missing.	Sensemaking 1
+Routers are there in your diagram.	Sensemaking 1
+WAN: a backup link for WAN is provided.	Sensemaking 1
+WAN bandwidth calculation is missing.	Sensemaking 1
+Traffic Analysis: good traffic analysis.	Sensemaking 1
+Devices Spec Details: provided.	Sensemaking 1
+Topology: high level topology design is shown using devices rather than symbols.	Sensemaking 1
+Backbone Details: is provided with details.	Sensemaking 1
+Recommendations: No formal recommendation done.	Sensemaking 1
+(ii) Presentation: Couldn’t view your video presentation. Please email me your link as soon as you can." 50	Sensemaking 1&Agency 1
+
+Late penalty applied.	Sensemaking 2
+Conceptual high-level diagram is missing.	Sensemaking 1
+Justify using 3 switches. How you have calculated? 45	Impact 1
+
+Great work and presentation with a detailedunderstanding of content. 100	Sensemaking 2
+
+"You have considered 2 25 port switches for each floor.I hardly found any 25 port switch.	Sensemaking 1
+In the backbone connectiondiagram, switch and router specifications were missing (slide 8)." 81.25	Sensemaking 1
+
+Well-organised presentation with detailed understanding of content/topic. 100	Sensemaking 2
+
+Good Work! 93.75	Agency 2
+
+"So many APs per floor is an overkill, will significantly increase the budget. You need to justify why you have used so many APs per floor. You could also add cost/budget of the equipment." 100	Sensemaking 1&Impact 1
+
+Better estimation or assumptions for access points coverage and number of access points is required.	Sensemaking 1
+Better estimation regarding type of switches is required.	Sensemaking 1
+A table of contents as well as a brief conclusion are required.	Sensemaking 1
+There are some references but have not been used in the slides. 100	Sensemaking 1
+
+"Please do not simply read out from a script during presentation.	Impact 3
+One 52 port switch per floor - 50 users, then only 2 ports are left for Aps. You won't be able to connect the other 4 Aps to the switch." 75	Sensemaking 1
+
+"Overall, the submission has room for improvement.	Sensemaking 2
+Presentation could follow the requirements and include the assumptions / design rule section.	Impact 2&Impact 1
+More details could be added in each diagram to simulate a real-life scenario, together with more descriptions.	Impact 1
+More details on the assumptions and design rationale is also needed." 50	Sensemaking 1
+
+design and traffic analysis can improve.	Sensemaking 1
+Why do we need one router per floor? further justification is needed.	Sensemaking 1
+Why 6 access points per floor?Project req. could be more specific (bandwidth per user)	Sensemaking 1
+layout diagrams can improve. 68.75	Sensemaking 1
+
+"Long sentences. It must be a presentation not a report. So, sentences must be summarized into some bullet points.	Sensemaking 1&Impact 1
+Conclusion is required.	Sensemaking 1
+References!	Sensemaking 1
+It would be better if we have some tables summarizing the results.	Sensemaking 1
+Details on traffic analysis, number of switches, type and bandwidth of switches and routers and so on are needed.	Sensemaking 1
+A better estimation or assumptions for access points coverage and number of required access points is required." 100	Sensemaking 1
+
+11 O
++ O
+14 O
++ O
+4 O
++ O
+4 O
++ O
+5 O
+= O
+38 O
+47.5 O
+
+9 O
++ O
+5 O
++ O
+13 O
++ O
+5 O
+= O
+32 O
+86.49 O
+
+"Q3: 9/17 Errors in (b)(ii), (c), and (d).	Sensemaking 1
+Q4: 10/20 Error in part (b) that causes errors in subsequent parts.	Sensemaking 1
+In part (d), the cases where i=j and i!=j are not considered separately.	Sensemaking 1
+Part (g) is not submitted." 77.5	Sensemaking 2
+
+"Q1 5/8 In part (b), you have found the derivative of f(x)g(x), but you've stated that it is f(x)g(x).	Sensemaking 1
+Part (c) is incomplete.	Sensemaking 1
+Q2 4.5/6 In part (b), your graph is not convex along [0, 1], and you do not have global maxes at x=1 and x=3.	Sensemaking 1
+Q3 4/6 Your proof for part (c) should not rely solely on visual inspection of the graph.	Sensemaking 1
+Use the fact that (2, (h(1)+h(3))/2) is the midpoint of the line between the two points.	Impact 1
+Q4 3/6. Your explanations should include written English.	Impact 1
+For part (b), you have reached exactly 38 days, which does not equal the line before it.	Sensemaking 1
+For part (c), the government is trying to keep it quiet by day 50, not within 50 days of the social distancing law (which would be day 50+k).	Sensemaking 1
+The answer should be 27.	Impact 1
+Q5 8/14 Your f''(x) and g''(x) are incorrect. You haven't shown how you found the stationary points for f(x). There are two stationary points for g(x). There are global extrema for both f(x) and g(x)." 61.25	Sensemaking 1
+
+"Q2 5.5/6 In part (b), you have a global max at x=0, not x=1.Q5 12.5/14 While you've cited the methods used to differentiate g(x), you haven't explained them (or done either for f(x)).	Sensemaking 1
+You should also explain why you can ignore the e^-x^2 factor when finding stationary points." 95	Impact 1
+
+"Q1: 10/11 You need to explain why your result means that S is a global minimum.	Impact 1
+Q2: 16/18 The Nash equilibrium is the other saddle point.	Sensemaking 1
+Q5: 8/14 You have misunderstood the question. The system you have made for part (b) is exactly the same as the system in part (a), i.e. a single trial." 88.75	Sensemaking 1
+
+excellent 90	Agency 2
+
+8 O
++ O
+6 O
++ O
+1 O
++ O
+6 O
++ O
+14 O
+= O
+35 O
+87.5 O
+
+"Q1: 8/11: Your part (c) is actually still part (b). Part (c) required you to consider physical constraints (such as the impossibility of negative numbers of molecules).	Sensemaking 1&Impact 1
+Q2: 6.5/7: Need to use more English to communicate, especially parts (b) and (d).	Impact 2
+Q3: 7.5/13: More English exposition is required.	Sensemaking 1
+There is an error in the matrix in part (a).	Sensemaking 1
+Part (f) is mostly incomplete: you should be finding the inverse of P and finding values as functions of n.	Sensemaking 1
+Q4: 3/6: You have not found x- and y-intercepts, and the lowest point in your diagram is incorrect.	Sensemaking 1
+You have not clearly communicated your explanation." 67.57	Sensemaking 1
+
+" O
+Q1 6/8. Your maths requires more explanation in written English.	Impact 2
+When you use the product rule or the chain rule, cite them and explain them.	Impact 1
+Q3 2.5/6 Your explanation for part (b) is unclear.	Sensemaking 1
+Your proof for part (c) should be more than a series of graphs: use the fact that the midpoint of the line between the two endpoints is (2, (h(1)+h(3))/2).	Impact 1
+Q4 1/6 All three parts are incorrect: the first should be Sn=10*1.2^n.	Impact 1
+Your lack of communication makes it difficult to award partial marks.	Sensemaking 1
+Q5 6.5/14 Your answer lacks a written explanation.	Sensemaking 1
+There is an error in your f''(x), so a max gets classified as a min.	Sensemaking 1
+You have not explained why you can ignore e^-x^2 when finding stationary points.	Sensemaking 1
+You have not found the values of f(x) and g(x) at the edges of their domains, and you have not found global extrema." 55	Sensemaking 1
+
+10 percent late penalty applied 42.5	Sensemaking 2
+
+5 O
++ O
+5 O
++ O
+10 O
++ O
+3 O
+= O
+23 O
+62.16 O
+
+"5.5/6 In part (b), your maxes need be pointy rather than curvy, otherwise they will be concave over small intervals." 98.75	Impact 1
+
+10 O
++ O
+7 O
++ O
+12 O
++ O
+6 O
+= O
+35 O
+question 3 asks for an approximation. 94.59	Sensemaking 1
+
+"Q2 5/6 In part (b), your maxes need be pointy rather than curvy, otherwise they will be concave over small intervals.	Impact 1
+In part (c) there looks to be a stationary point within [0,1].	Sensemaking 1
+Q3 5/6 Your explanation in part (c) is confusing and unconvincing.	Sensemaking 1
+Calculating the actual value of g(2) does not help us here.	Sensemaking 1
+Q5 12/14 Error in finding f''(1) in part (a), and the local min and max are switched.	Sensemaking 1
+There is inadequate written explanation, such as how you were able to ignore the e^-x^2 factor. " 90	Sensemaking 1
+
+Added 1.5 marks. 93.24	Sensemaking 2
+
+Q3: Minor error in part (f): 70-5-20=45 (-0.5 marks)	Sensemaking 1
+Q4: Error in part (b) that causes errors in all following questions. (-2 marks) 96.88	Sensemaking 1
+
+"Q1: 7.5/11: You should explain part (a) in English, and in part (b) state that x4 is a free variable.	Impact 1
+You have not done part (c), in which you restrict the values of x4 to integers between zero and 3.5 sextillion.	Sensemaking 1
+Q2: 5.5/7: You haven't explained why (f-g)' has no real roots.	Sensemaking 1
+Your graph does not have all intercepts and endpoints labelled (and at least one intercept is incorrect).	Sensemaking 1
+You should use English to explain what you are doing, particularly in part (d).	Impact 1
+Q3: 8.5/13: The matrix in part (a) doesn't account for the continued existence of the process (-0.5 marks).	Sensemaking 1
+Part (f) is unfinished (-4 marks).	Sensemaking 1
+Q4: 4/6: You have not found the x- and y-intercepts, nor indicated which region is bounded by the inequalities, and you need to use more English to explain what you are doing." 68.92	Sensemaking 1&Impact 2
+
+9 O
++ O
+7 O
++ O
+9 O
++ O
+6 O
+= O
+31 O
+83.78 O
+
+"Q1Need to use English to communicate part (a).	Impact 1
+For part (c), the number of molecules must be an integer (not just any number)." 98.65	Impact 1
+
+10% mark reduction for late submission! 31.25	Sensemaking 2
+
+"Q1 5/8 In part (b), you have found the derivative of f(x)g(x), but you've stated that it is f(x)g(x).	Sensemaking 1
+Part (c) is incomplete.	Sensemaking 1
+Q2 4.5/6 In part (b), your graph is not convex along [0, 1], and you do not have global maxes at x=1 and x=3.	Sensemaking 1
+Q3 4/6 Your proof for part (c) should not rely solely on visual inspection of the graph. Use the fact that (2, (h(1)+h(3))/2) is the midpoint of the line between the two points.	Impact 1
+Q4 3/6. Your explanations should include written English.	Impact 2
+For part (b), you have reached exactly 38 days, which does not equal the line before it.	Sensemaking 1
+For part (c), the government is trying to keep it quiet by day 50, not within 50 days of the social distancing law (which would be day 50+k). The answer should be 27.	Sensemaking 1&Impact 1
+Q5 8/14 Your f''(x) and g''(x) are incorrect. You haven't shown how you found the stationary points for f(x). There are two stationary points for g(x). There are global extrema for both f(x) and g(x)." 61.25	Sensemaking 1
+
+" O
+Q1: 7.5/11: Need to use English to communicate part (a) (-0.5 marks).	Impact 1
+Your part (c) is actually still part (b). Part (c) required you to consider physical constraints (such as the impossibility of a negative number of molecules) (-3 marks).	Sensemaking 1&Impact 1
+Q2: 6.5/7 Need to use more English to communicate, partiularly parts (b) and (d).	Impact 1
+In part (b), which was more complicated than it needed to be, you did not explain why the rate of change always being positive meant that f(x) and g(x) could not meet somewhere else.	Sensemaking 1
+Q3: 11.5/13: More English exposition is required.	Impact 2
+You made two errors: finding the determinant in part (b) and finding the determinant in part (e).	Sensemaking 1
+Q4: 5.5/6: The point where the two circles intersect has its coordinates switched." 83.78	Sensemaking 1
+
